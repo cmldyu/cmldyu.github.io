@@ -1,11 +1,11 @@
 # Site settings
-title: 卡尔的咖啡厅
-SEOTitle: 卡尔的咖啡厅 | Karl's Coffee Bar
+title: 布丢的世界
+SEOTitle: 布丢的世界 | Bourdieu's World
 header-img: img/home-bg.jpg
 email: david@mail.bnu.edu.cn
-description: "Solidarie and Solitarie"
-keyword: "洛光明,R语言,数据挖掘,文本挖掘,自然语言处理,NLP,读书,社会学,教育学"
-url: "https://lgm.name"              # your host, for absolute URL
+description: "法国社会学家皮埃尔·布尔迪厄的中文介绍网站。"
+keyword: "布尔迪厄,社会学,布迪厄"
+url: "https://bourdieu.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
