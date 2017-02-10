@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      "布尔迪厄的世界"
+subtitle:   " \"Bourdieu's World\""
+date:       2017-2-9 21:55:09
+author:     "罗小布"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 评论
+---
+
