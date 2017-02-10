@@ -1,9 +1,4 @@
-# HuxBlog Boilerplate
+#布丢的世界
+皮埃尔·布尔迪厄（1930-2002）是法国社会学家。出生于法国西南一隅的贝亚恩省，止于巴黎。他以显得有些过于客观和冷峻地言辞分析他所处的法国社会：教育系统、文化品位、体育运动、文学创作……他将社会学的疆域扩展到了社会的诸领域。这个网站是献给他和希望了解他的思想的人的。我将在这里收集他的作品、言论，并尽可能地提供中文翻译。
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
-
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
-
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
-
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+罗炜 2017年2月10日18:44:04 谨识
